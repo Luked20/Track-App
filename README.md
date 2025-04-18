@@ -20,11 +20,6 @@ npm install
 - Crie um banco de dados chamado 'track'
 - Execute o script `init.sql` para criar as tabelas
 
-
-```
-
-```
-
 ## Executando o Projeto
 
 Para desenvolvimento:
@@ -53,4 +48,4 @@ npm start
 - categorias: Armazena as categorias de hábitos
 - habitos: Armazena os hábitos cadastrados
 - registros_habitos: Registra o progresso diário dos hábitos
-- estatisticas: Mantém estatísticas de cada hábito 
+- estatisticas: Mantém estatísticas de cada hábito
